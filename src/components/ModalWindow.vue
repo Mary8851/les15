@@ -53,34 +53,4 @@ export default {
     cursor: pointer;
   }
 }
-
-// .modal-close {
-//   position: absolute;
-//   top: -20px;
-//   right: -20px;
-//   width: 40px;
-//   height: 40px;
-//   text-align: center;
-// }
-// .modal-window {
-//   position: fixed;
-//   z-index: 99;
-//   background: rgba(0, 0, 0, 0.3);
-//   top: 0;
-//   left: 0;
-//   right: 0;
-//   bottom: 0;
-//   overflow: hidden;
-//   height: 100vh;
-// }
-// .modal {
-//   position: relative;
-//   top: 20%;
-//   width: 50%;
-//   min-height: 30vh;
-//   margin: auto;
-//   background: #fff;
-//   padding: 20px;
-//   text-align: center;
-// }
 </style>
